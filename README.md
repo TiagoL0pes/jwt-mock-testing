@@ -11,7 +11,7 @@ Run ``mvn clean install`` in to root project to compile application and run ``ja
 
 ## Endpoints:
 
-Usage examples are below for running from the command prompt.
+Usage examples with default token provided by [jwt.io website](https://jwt.io/) are below for running from the command prompt.
 
 ### Add a new token item
 ````
