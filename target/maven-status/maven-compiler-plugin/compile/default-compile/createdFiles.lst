@@ -1,0 +1,6 @@
+com\mock\jwttesting\model\ItemRequest.class
+com\mock\jwttesting\model\ListRequest.class
+com\mock\jwttesting\controller\TokenController.class
+com\mock\jwttesting\model\PayloadResponse.class
+com\mock\jwttesting\JwtTestingApplication.class
+com\mock\jwttesting\service\TokenService.class
